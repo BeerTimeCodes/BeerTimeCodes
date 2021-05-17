@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BeerTimeCodes
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on discord
-- 📫 How to reach me discord
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on ROBLOX
+- 📫 How to reach my discocrd
 
 <!---
 BeerTimeCodes/BeerTimeCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
